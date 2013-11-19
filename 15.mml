@@ -1,10 +1,10 @@
 #EX-VRC7
 @OT15 = {
 ;TL FB
- 14 00
+ 13 00
 ;AR DR SL RR KL ML AM PM EG KR WF
  10  1  4  4  0  1  0  0  1  0  0
- 10  0  1  7  0  2  0  1  1  0  0
+ 10  0  1  8  0  2  0  1  1  0  0
 };
 
 G q8o4v12t150
