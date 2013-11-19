@@ -1,0 +1,13 @@
+#EX-VRC7
+@OT7 = {
+;TL FB
+ 28 07
+;AR DR SL RR KL ML AM PM EG KR WF
+  8  2  1  6  0  1  0  0  1  0  0
+  8  1  0  7  0  1  0  1  1  0  0
+};
+
+G q8o4v12t150
+G @@0 OP7 c1r4 @@7 c1 r4
+G <<@@0 OP7 c1r4 @@7 c1 r4>>
+G >>@@0 OP7 c1r4 @@7 c1 r4<<
