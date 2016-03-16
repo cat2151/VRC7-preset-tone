@@ -47,3 +47,6 @@ GitHubに配置する目的は、情報の共有にあります。
 * 13	*変更した。*
 * 14	*変更した。*
 * 15	*変更した。*
+
+# wiki
+https://github.com/cat2151/VRC7-preset-tone/wiki
